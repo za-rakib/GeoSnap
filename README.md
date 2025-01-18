@@ -59,8 +59,6 @@ npm start
 npm run android
 ```
 
-## Demo Video
+## Apk
 
-Watch the demo of the app on YouTube:
-
-[![Watch the demo](https://img.youtube.com/vi/t6SwqFuxV64/0.jpg)](https://www.youtube.com/watch?v=t6SwqFuxV64)
+[![Download Apk]](https://drive.google.com/file/d/1gcWHZDmlY9cc4k9gingF72xir1YGyAvR/view?usp=sharing)
